@@ -5,7 +5,7 @@ Hello ! I am Sulthan Aulia Rahman Im a Student currently studying Informatics En
 I'm  intrested in AI Development and GameDev.
 
 ## Current Project ! ✨
-- HealthSync APP
+- Lah-kerja
 
 ## GitHub Stats 📊 
 
