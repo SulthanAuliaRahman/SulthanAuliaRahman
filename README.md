@@ -1,29 +1,47 @@
-## My Profile ! 🎉
+# 👋 Hi, I'm Sulthan Aulia Rahman  
 
-Hello ! I am Sulthan Aulia Rahman Im a Student currently studying Informatics Engineering !
+🎓 **Informatics Engineering Student** | 💡 **AI & Game Development Enthusiast**  
 
-I'm  intrested in AI Development and GameDev.
+---
 
-## Current Project ! ✨
-- Lah-kerja
+## About Me  
+I'm passionate about building intelligent systems and immersive experiences.  
+Currently exploring the world of **Artificial Intelligence**, **Robotics**, and **Game Development**.  
+Always excited to collaborate and learn something new every day!
 
-## GitHub Stats 📊 
+---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SulthanAuliaRahman&show_icons=true&theme=tokyonight&hide=prs)
+## Current Projects  
+- 💼 [**Lah-Kerja**](#) — Job-related application (details coming soon)  
+- 💧 [**Bayar-Air**](#) — Mobile & web app for water usage tracking  
+- ⚙️ [**SSPM**](#) — Ongoing research/project in Informatics  
 
+---
+
+## GitHub Stats  
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SulthanAuliaRahman&show_icons=true&theme=tokyonight&hide=prs)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanAuliaRahman&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=SulthanAuliaRahman&theme=tokyonight)
 
-## Contact Me 📞
+</div>
 
-If you want to get in touch, feel free to reach out:
+---
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulthan.aulia.tif23@gmail.com)
+## Portfolio  
+Check out my portfolio website here:  
+👉 [**sulthan-a-rahman-portofolio.vercel.app**](https://sulthan-a-rahman-portofolio.vercel.app)
 
-<!---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
---->
+---
 
-<!---
-SulthanAuliaRahman/SulthanAuliaRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact Me  
+If you'd like to connect or collaborate, feel free to reach out!  
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulthan.aulia.tif23@gmail.com)  
+<!-- Uncomment if you want LinkedIn -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) -->
+
+---
+
+⭐️ *“Code. Create. Innovate.”*  
