@@ -8,14 +8,6 @@
 I'm passionate about building intelligent systems and immersive experiences.  
 Currently exploring the world of **Artificial Intelligence**, **Robotics**, and **Game Development**.  
 Always excited to collaborate and learn something new every day!
-
----
-
-## Current Projects  
-- 💼 [**Lah-Kerja**](#) — Job-related application (details coming soon)  
-- 💧 [**Bayar-Air**](#) — Mobile & web app for water usage tracking  
-- ⚙️ [**SSPM**](#) — Ongoing research/project in Informatics  
-
 ---
 
 ## GitHub Stats  
